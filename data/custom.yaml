@@ -1,0 +1,8 @@
+train: C:\Users\harir\TENSORFLOW_\yolo\yolov7\train.txt
+val: C:\Users\harir\TENSORFLOW_\yolo\yolov7\val.txt
+
+# Number of classes
+nc: 2
+
+# Class names
+names: ['led_on', 'motherboard']
