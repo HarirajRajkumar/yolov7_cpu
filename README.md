@@ -4,13 +4,13 @@ Cited from : https://github.com/WongKinYiu/yolov7
 # YOLOv7 Object Detection Project )
 
 ## Overview
-Brief description of your project and what it does.
+toBe(Brief description of your project and what it does.)
 
 ## Dataset
-Information about your dataset and how it's organized.
+toBe(Information about your dataset and how it's organized.)
 
 ## Model
-Details about the YOLOv7 model you're using.
+toBe(Details about the YOLOv7 model you're using.)
 
 ## Changes
 
