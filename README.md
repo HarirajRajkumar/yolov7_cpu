@@ -1,4 +1,5 @@
 # yolov7_cpu
+Cited from : https://github.com/WongKinYiu/yolov7
 
 # YOLOv7 Object Detection Project )
 
@@ -20,7 +21,6 @@ PyTorch 2.6 changed the default value of the weights_only parameter in torch.loa
 # Clone this repository
 git clone https://github.com/yourusername/your-repository-name.git
 
-REFERENCE: https://github.com/WongKinYiu/yolov7
 
 # Install dependencies
 pip install -r requirements.txt
