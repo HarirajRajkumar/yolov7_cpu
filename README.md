@@ -18,9 +18,13 @@ PyTorch 2.6 changed the default value of the weights_only parameter in torch.loa
 
 ## Setup
 ```bash
+
+Create Virtual Environment
+
 # Clone this repository
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/WongKinYiu/yolov7
 
 
 # Install dependencies
 pip install -r requirements.txt
+
